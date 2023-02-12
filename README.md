@@ -92,7 +92,7 @@ SESSDATA | xxxxx
 
 默认`push`操作会触发工作流运行。
 
-+ 打开`README.md`，将里面的 😄 删除一个即可。
++ 打开`README.md`，将里面的  删除一个即可。
 
 ![](img/进行一次push操作.gif)
 
